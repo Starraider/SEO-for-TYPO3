@@ -1,5 +1,9 @@
 # Voraussetzungen
 
+## Persönliche Voraussetzungen
+
+Es sollten Grundkenntnisse im Umgang mit TYPO3 bereits vorhanden sein.
+
 ## Technische Voraussetzungen
 
 - TYPO3 Version 10 oder höher
