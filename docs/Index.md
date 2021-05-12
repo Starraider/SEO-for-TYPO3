@@ -8,7 +8,10 @@ gefunden werden.
 ## Inhalt
 
 1. [Voraussetzungen](Voraussetzungen.md)
+
    1.1 [Empfehlenswerte SEO-Extensions für TYPO3](TYPO3-SEO-Extensions.md)
+
+2. [Einleitung](Einleitung.md)
 
 ***
 
