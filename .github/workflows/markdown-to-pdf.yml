@@ -26,9 +26,8 @@ jobs:
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/download-artifact@v2
-        id: download
         with:
-          name: docs
           path: pdf
-      - name: 'Echo download path'
-        run: echo ${{steps.download.outputs.download-path}}
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: pdf
