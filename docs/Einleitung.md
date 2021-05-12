@@ -23,8 +23,14 @@ eine möglichst gute Auffindbarkeit des Artikels ermöglichen, dann nennt man
 dies "**Suchmaschinen-Optimierung**" - im Englischen "**S**earch **E**ngine **O**ptimization",
 oder kurz "**SEO**".
 
-
 ### OnPage-Optimierung
+
+Unter der "OnPage-Optimierung" versteht man alle Optimierungsmaßnahmen, die direkt
+auf der Website vorgenommen werden. Dies können sowohl technische als auch inhaltliche
+Optimierungsmaßnahmen beinhalten.
+Es gibt jedoch auch Faktoren auf das Ranking einer Website, die nur indirekt mit
+der eigenen Website zu tun haben; also quasi "von außen" Einfluß auf das Ranking
+haben (mehr dazu weiter unten).
 
 #### Technisches SEO
 
