@@ -32,6 +32,42 @@ oder kurz "**SEO**".
 
 ### OffPage-Optimierung
 
+### Vorbemerkungen
+
+Es sollte jedem, der sich mit SEO beschäftigt, bewußt sein, dass es ein gut
+gehütetes Geschäftsgeheimis von Google ist, wie das Ranking auf den
+Suchergebnisseiten genau berechnet wird.
+Google hat zwar hin und wieder auch selbst Empfehlungen und Hinweise
+veröffentlicht, wie man das Ranking der eigenen Website verbessern kann;
+der Großteil der Einflussfaktoren auf das Ranking ist jedoch unbekannt.
+Insofern kann die Frage, welche Faktoren überhaupt eine Rolle spielen bzw. wie
+groß der Einfluß der jeweiligen Faktoren auf das Suchergebnis ist, nicht
+exakt beantwortet werden. Die hier zusammengetragenen Empfehlungen für das SEO,
+beruhen daher, neben den Hinweisen von Google, zum Großteil auf Analysen und
+Einschätzungen zahlreicher SEO-Experten.
+
+#### Falsche Versprechungen
+
+Man hört und liest immer wieder von Firmen oder Personen, die einem großspurig
+versprechen, die eigene Website "bei Google auf Platz 1" zu bringen.
+Aus dem Vorhergesagten kann man bereits erahnen, dass ein solches Versprechen
+im besten Fall "gewagt" ist.
+
+Gäbe es tatsächlich ein 100%iges Erfolgsrezept eine Website bei Google auf
+Platz 1 zu bringen, dann stößt man spätestens dann auf einen Logik-Fehler,
+wenn zwei konkurrierende Website-Betreiber sich beide des selben "Erfolgrezepts"
+bedienen würden, denn es können natürlich nicht beide Websites auf Platz 1
+gelistet werden. Es kann nur einen Sieger geben!
+
+Wer also damit wirbt: "Ich bringe ihre Website bei Google auf Platz 1!", der ist
+entweder schlicht ein Betrüger, oder er verschweigt dabei, dass er dies allerhöchstens
+nur für ein völlig nutzloses Keyword (halbwegs) garantieren kann (dazu später mehr).
+
+Kurz gesagt, man sollte sich nicht der falschen Hoffnung hingeben, dass man "automatisch"
+auf Platz 1 bei Google landet, wenn man nur die richtigen SEO-Maßnahmen ergriffen
+hat.
+
+
 ***
 
 Autor: Sven Kalbhenn | [GPL-2.0 License](LICENCE)
