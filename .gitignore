@@ -1,0 +1,20 @@
+### macOS ###
+.DS_Store
+*.swp
+*.old
+*.ld
+*.icloud
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### Project ###
+.idea
+/node_modules/
+/var/
+/vendor/
