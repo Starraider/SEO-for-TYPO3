@@ -10,7 +10,19 @@ weit vorne aufgelistet zu werden.
 
 Die Frage ist also, wie schafft man es, dass der eigene Artikel bei den
 Google-Suchergebnissen möglichst weit vorne landet?
+
 ## Was ist SEO?
+
+Es gibt viele verschiedene Faktoren, die beinflussen, zu welchen Suchbegriffen
+der eigene Artikel gefunden wird und wie weit vorne man in der Liste der
+Suchergebnisse aufgelistet wird.
+Dabei handelt es sich teilweise um technische Faktoren, aber auch um
+inhaltliche Faktoren.
+Wenn man den eigenen Artikel darauf hin optimiert, dass diese Faktoren
+eine möglichst gute Auffindbarkeit des Artikels ermöglichen, dann nennt man
+dies "**Suchmaschinen-Optimierung**" - im Englischen "**S**earch **E**ngine **O**ptimization",
+oder kurz "**SEO**".
+
 
 ### OnPage-Optimierung
 
