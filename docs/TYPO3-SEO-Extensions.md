@@ -32,6 +32,12 @@ Diese Extension extrahiert Metadaten (EXIF / IPTC / XMP / ...) aus Bildern und D
 
 ## Performance
 
+#### web-vitals-tracker
+
+Measurement Web Vitals Statistic for your TYPO3.
+
+[GitHub](https://github.com/Kanti/web-vitals-tracker)
+
 ### HTML/CSS/JS Optimierung
 
 #### 1. staticfilecache
